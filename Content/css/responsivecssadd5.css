@@ -1,0 +1,1268 @@
+@media(min-width:1201px) {
+    .container {
+    width: 1200px;
+}
+.wedsMachMbox_wrap .wedsMachMbox:nth-child(3n+3) {
+    margin-right: 0;
+}
+.sidebar.left {
+    width: 260px;
+}
+.col-main {
+    width: 900px;
+    padding: 0;
+}
+}@media screen and (min-width:992px)and (max-width:1200px) {
+    #header .logo {
+    float: left;
+    padding-left: 0;
+    width: 62%}
+#header .top-links {
+    float: right;
+}
+.top-links ul li {
+    padding: 0 12px;
+}
+.navbar-default .navbar-nav>li>a {
+    padding-left: 22px;
+    padding-right: 22px;
+    width: 100%}
+.slideshow {
+    padding-top: 62px;
+}
+.slideshow .inner_content {
+    max-width: 100%;
+    padding: 0 95px;
+}
+.slideshow .gettingStart {
+    padding: 8px 18px;
+    font-size: 16px;
+}
+.services-grid .box {
+    padding-bottom: 24.333%}
+.services-grid .box .inner {
+    left: 0;
+    padding: 0 25px;
+    top: 50%;
+    margin-left: 0;
+    width: 100%}
+.services-grid .box .inner h3 {
+    font-size: 14px;
+}
+.services-grid .box .inner p {
+    font-size: 12px;
+    line-height: 16px;
+}
+#footer .colm {
+    padding: 0 40px;
+}
+#footer .colm:first-child {
+    padding-left: 0;
+}
+.navbar-default .navbar-nav>li>a {
+    font-size: 12px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+#footer .copyright {
+    padding-left: 0;
+}
+#footer .social_links {
+    padding-right: 0;
+    margin-top: 4px;
+}
+.social_links li a {
+    background-size: cover;
+    height: 22px;
+    width: 94px;
+}
+.social_links li.twitter a {
+    background-position: -98px 0;
+}
+.social_links li.linkedin a {
+    background-position: -199px 0;
+}
+.social_links li.youtube a {
+    background-position: -298px 0;
+}
+.social_links li.pinterest a {
+    background-position: -133px 0;
+}
+.history_table thead th, .history_table tbody td {
+    padding: 7px 15px;
+    font-size: 13px;
+    white-space: nowrap;
+}
+.history_table {
+    max-width: 100%;
+    overflow-x: auto;
+}
+.history-deatils .notes_wrap .NotesText {
+    white-space: normal;
+}
+.wedsMachMbox_wrap .wedsMachMbox {
+    width: 48%;
+    margin: 10px 1%}
+.input_file .selected_file_name {
+    width: 67%}
+#marriagegPublicNotice .wedsMachMbox_wrap table tr td {
+    width: 31.3%;
+    min-height: 350px;
+    float: left;
+    display: inline-block;
+    margin: 0 1%}
+#marriagegPublicNotice .wedsMachMbox_wrap table tr td .vew_detailsBTn {
+    margin-bottom: 10px;
+}
+#marriagegPublicNotice .wedsMachMbox_wrap table tr td .wedsMachMbox {
+    width: 100%;
+    margin: 0;
+}
+.top-links .welcomeText {
+    white-space: normal;
+    width: auto;
+}
+.top-links ul li {
+    padding: 0 8px;
+}
+.top-links ul li.dropdown .dropdown-menu li {
+    width: 100%;
+    max-width: 100%}
+#header .logo {
+    width: 30%}
+#header .top-links {
+    width: 70%}
+.top-links ul li {
+    max-width: 20%;
+    width: 100%}
+.top-links ul li:last-child {
+    max-width: 16%}
+.top-links ul .li_migration .dropdown-menu {
+    left: -140px!important;
+}
+.navbar-nav {
+    padding-left: 0;
+}
+.navbar-nav {
+    width: 94%}
+.navbar-nav li {
+    margin: 0 -3px;
+}
+.navbar-default .navbar-nav>li:first-child>a {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.admin_top_links .top-links ul li {
+    max-width: 48%;
+    width: 48%}
+}@media screen and (min-width:768px)and (max-width:991px) {
+    #header .logo {
+    float: left;
+    padding-left: 0;
+    width: 57%}
+#header .top-links {
+    float: right;
+    padding-top: 0;
+}
+.top-links ul li {
+    padding: 0 12px;
+}
+.navbar-default .navbar-nav>li>a {
+    font-size: 12px;
+    padding-left: 14px;
+    padding-right: 14px;
+    width: 100%}
+.slideshow {
+    padding-top: 62px;
+}
+.slideshow .inner_content {
+    max-width: 100%;
+    padding: 0 95px;
+}
+.slideshow .gettingStart {
+    padding: 8px 18px;
+    font-size: 16px;
+}
+.services-grid .box {
+    padding-bottom: 24.333%}
+.services-grid .box .inner {
+    left: 0;
+    padding: 0 25px;
+    top: 50%;
+    margin-left: 0;
+    width: 100%;
+    max-width: 100%}
+.services-grid .box .inner h3 {
+    font-size: 15px;
+}
+.services-grid .box .inner p {
+    font-size: 12px;
+    line-height: 16px;
+}
+#footer .colm {
+    padding: 0 40px;
+    width: 33.3333%;
+    float: left;
+}
+#footer .colm:first-child {
+    padding-left: 0;
+}
+.sidebar.left {
+    margin-bottom: 25px;
+    padding: 0;
+}
+.col-main {
+    padding: 0;
+}
+.services-grid .box {
+    padding-bottom: 32.333%}
+.navbar-toggle {
+    display: block;
+    margin-left: 15px;
+    float: left;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #008231;
+}
+.navbar-collapse.collapse {
+    display: none!important;
+}
+.navbar-collapse.collapse.in {
+    display: block!important;
+}
+.navbar-default .navbar-collapse {
+    background: #2d74b3 none repeat scroll 0 0;
+    clear: both;
+    padding: 0;
+    position: absolute;
+    top: 50px;
+    width: 100%;
+    z-index: 9999;
+}
+.navbar-default .collapse.navbar-collapse {
+    position: absolute;
+}
+.navbar-header {
+    float: left;
+    width: 100%}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.navbar-nav>li {
+    float: left;
+    width: 100%}
+.navbar-default .navbar-nav>li>a {
+    border-bottom: 1px solid #29ab5a;
+    font-size: 15px;
+    padding: 14px 25px;
+    text-align: left;
+    width: 100%}
+.navbar-default .container {
+    padding: 0;
+    position: relative;
+}
+.navbar-default .navbar-form {
+    position: absolute;
+    right: 0;
+    top: -50px;
+}
+.slideshow {
+    height: 235px;
+    padding-top: 40px;
+}
+.slideshow .owl-controls .owl-prev, .slideshow .owl-controls .owl-next {
+    top: 32%}
+#footer .copyright {
+    text-align: center;
+    margin-bottom: 15px;
+}
+#footer .social_links {
+    text-align: center;
+}
+#footer .social_links ul {
+    float: none;
+}
+table.dataTable.no-footer {
+    max-width: 750px;
+    overflow-x: auto;
+    display: block;
+}
+table.dataTable .delete, table.dataTable .btn {
+    margin: 5px 0;
+}
+.navbar-default .navbar-nav .notification_msg {
+    right: 10px;
+    top: 10px;
+}
+.application-details .box {
+    margin-bottom: 15px;
+}
+.form-fields .photo_update .photoUpload_input {
+    width: 82%}
+.history_table thead th, .history_table tbody td {
+    padding: 7px 15px;
+    font-size: 13px;
+    white-space: nowrap;
+}
+.history_table {
+    max-width: 100%;
+    overflow-x: auto;
+}
+.history-deatils .notes_wrap .NotesText {
+    white-space: normal;
+}
+.history_table thead th, .history_table tbody td {
+    padding: 7px 15px;
+    font-size: 13px;
+    white-space: nowrap;
+}
+.history_table {
+    max-width: 100%;
+    overflow-x: auto;
+}
+.history-deatils .notes_wrap .NotesText {
+    white-space: normal;
+}
+.wedsMachMbox_wrap .wedsMachMbox {
+    width: 48%;
+    float: left;
+    margin: 0 1% 15px;
+}
+.pagination_Wrap {
+    text-align: center;
+}
+.pagination_Wrap .pagination {
+    float: none;
+}
+.navbar-default .navbar-nav>li {
+    width: 100%;
+    float: left;
+}
+.navbar-default .navbar-nav>li.dropdown-toggle a {
+    background: url(../images/plus-minus.html) no-repeat 97% 20px;
+    padding-right: 45px;
+}
+.navbar-default .navbar-nav>li.dropdown-toggle a.active {
+    background-position: 97% -74px;
+}
+.navbar-default .navbar-nav>li ul.dropdown-menu.oneColumnMenu, .navbar-default .navbar-nav>li ul.dropdown-menu {
+    position: relative;
+    width: 100%;
+    border: 0;
+    box-shadow: none;
+    padding: 15px;
+    border-radius: 0;
+    max-height: 311px;
+    overflow-y: auto;
+}
+.navbar-nav>li ul.dropdown-menu>li {
+    width: 100%;
+    padding: 0;
+}
+.address_wrap .address_box {
+    width: 100%;
+    margin-left: 0%}
+.address_wrap {
+    clear: both;
+}
+.cms-page .inner_content .contact_fields ul {
+    margin-left: 0;
+}
+.form-fields .form-list label {
+    text-transform: none;
+}
+.form-fields .form-list li.singal_items label {
+    padding: 0 10px 10px;
+}
+.tooltip_cnt::after {
+    left: 20px;
+}
+.tooltip_cnt {
+    left: 0!important;
+}
+.admin .navbar-default .navbar-nav>li ul.dropdown-menu {
+    width: 100%;
+    position: relative;
+    padding: 10px 7px 10px 15px;
+}
+.application-tables table.dataTable tbody tr td {
+    white-space: nowrap;
+}
+.y-axis li span {
+    display: block;
+    font-size: 12px;
+    margin: -10px 0 0 -35px;
+    padding: 0 10px;
+    width: 40px;
+}
+.contact_fields.col-sm-offset-3 {
+    margin: 0;
+    padding: 0;
+}
+#marriagegPublicNotice .wedsMachMbox_wrap table tr td {
+    width: 48%;
+    min-height: 350px;
+    float: left;
+    display: inline-block;
+    margin: 8px 1%}
+#marriagegPublicNotice .wedsMachMbox_wrap table tr td .vew_detailsBTn {
+    margin-bottom: 10px;
+}
+#marriagegPublicNotice .wedsMachMbox_wrap table tr td .wedsMachMbox {
+    width: 100%;
+    margin: 0;
+}
+form#marriagegPublicNotice .wedsMachMbox_wrap {
+    margin-top: 0;
+}
+#marriagegPublicNotice .content-wrap.public_notice_page {
+    margin-top: 33px;
+}
+.admin_top_links .top-links ul li {
+    max-width: 48%;
+    width: 48%}
+}@media(max-width:767px) {
+    .container {
+    width: 100%;
+    padding: 0 15px;
+}
+#header .logo {
+    float: left;
+    padding-left: 0;
+    width: 100%;
+    text-align: center;
+}
+#header .top-links {
+    padding-top: 35px;
+    text-align: center;
+    display: inline-block;
+    width: 100%}
+.top-links ul li {
+    padding: 0 12px;
+}
+.slideshow {
+    padding-top: 62px;
+}
+.slideshow .inner_content {
+    max-width: 100%;
+    padding: 0 95px;
+}
+.slideshow .gettingStart {
+    padding: 8px 18px;
+    font-size: 16px;
+}
+.services-grid .box {
+    padding-bottom: 24.333%}
+.services-grid .box .inner {
+    left: 0;
+    padding: 0 25px;
+    top: 50%;
+    margin-left: 0;
+    width: 100%}
+.services-grid .box .inner h3 {
+    font-size: 15px;
+}
+.services-grid .box .inner p {
+    font-size: 12px;
+    line-height: 16px;
+}
+#footer .colm {
+    padding: 0 40px;
+}
+#footer .colm:first-child {
+    padding-left: 0;
+}
+.sidebar.left {
+    margin-bottom: 25px;
+    padding: 0;
+}
+.col-main {
+    padding: 0;
+}
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background: none;
+}
+.navbar-default .navbar-nav>li>a {
+    font-size: 15px;
+    padding: 14px 25px;
+    width: 100%;
+    text-align: left;
+    border-bottom: 1px solid #29ab5a;
+}
+.navbar-default .navbar-collapse {
+    padding: 0;
+    border: 0;
+}
+.navbar-nav {
+    margin: 0!important;
+}
+.navbar-default .navbar-form {
+    position: relative;
+    width: 100%}
+.navbar-default .navbar-form .Search_icon {
+    background-size: cover;
+    height: 15px;
+    position: absolute;
+    right: 45px;
+    top: 18px;
+    width: 14px;
+    z-index: 999;
+}
+.navbar-default .navbar-form .form-control {
+    border: 1px solid #00bfa7;
+    box-shadow: none;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 15px;
+    width: 100%!important;
+}
+.navbar-default .navbar-form .form-group {
+    width: 100%!important;
+}
+.navbar-default .navbar-form .form-control:focus {
+    border-color: #00bfa7;
+    box-shadow: none;
+}
+.form-wrap .form-title {
+    font-size: 18px;
+}
+.navbar-default .navbar-form .form-group {
+    border: 0 none;
+    box-shadow: none;
+    display: block!important;
+    left: 0;
+    margin: 0;
+    padding: 0 15px;
+    position: relative;
+    top: -4px;
+    width: 100%}
+.slideshow {
+    height: 200px;
+    padding-top: 35px;
+}
+.slideshow .inner_content {
+    padding: 0 70px;
+}
+.lead {
+    font-size: 13px;
+    line-height: 25px;
+    padding: 0 4%}
+.slideshow .gettingStart {
+    font-size: 11px;
+    padding: 6px 11px;
+}
+.services-grid .box {
+    padding-bottom: 40%}
+.services-grid .box .inner {
+    left: 50%;
+    margin-left: -190px;
+    max-width: 380px;
+    padding: 0 25px;
+    top: 50%;
+    width: 100%}
+#footer .colm:first-child {
+    padding-left: 20px;
+}
+#footer .colm {
+    padding: 0 20px;
+    min-height: inherit;
+    background: none;
+}
+#footer .copyright {
+    text-align: center;
+    margin-bottom: 15px;
+    width: 100%}
+#footer .social_links {
+    text-align: center;
+    padding-bottom: 10px;
+}
+#footer .social_links ul {
+    float: none;
+}
+.form-wrap .buttons_wrap .buttn {
+    margin: 25px 0 0;
+}
+.form-fields .form-list label {
+    text-transform: none;
+}
+.form-fields .form-list .help, .tooltip_cnt {
+    display: none!important;
+}
+.faq_container {
+    padding: 0;
+}
+.faq_question {
+    font-size: 13px;
+    text-transform: none;
+}
+.faq_answer {
+    font-size: 13px;
+}
+table.dataTable.no-footer {
+    max-width: 100%;
+    overflow-x: auto;
+    display: block;
+}
+table.dataTable .delete, table.dataTable .btn {
+    margin: 5px 0;
+}
+.application-details {
+    padding-top: 0;
+}
+table.dataTable thead th, table.dataTable thead td {
+    width: 150px!important;
+}
+.navbar-default .navbar-nav .notification_msg {
+    right: 10px;
+    top: 10px;
+}
+.application-details .box .inner_cnt a {
+    font-size: 13px;
+}
+.application-details .inner_cnt .row {
+    padding: 6px 0;
+}
+.application-details .box {
+    margin-bottom: 15px;
+    padding: 0;
+}
+.form-fields .photo_update .photoUpload_input {
+    width: 79%}
+.history_table thead th, .history_table tbody td {
+    padding: 7px 15px;
+    font-size: 13px;
+    white-space: nowrap;
+}
+.history_table {
+    max-width: 100%;
+    overflow-x: auto;
+}
+.history-deatils .notes_wrap .NotesText {
+    white-space: normal;
+}
+table.dataTable thead th, table.dataTable thead td, table.dataTable tbody tr td {
+    white-space: nowrap;
+}
+h2.head-short {
+    font-size: 16px;
+}
+.navbar-default .navbar-nav>li {
+    width: 100%;
+    float: left;
+}
+.navbar-default .navbar-nav>li.dropdown-toggle a {
+    background: url(../images/plus-minus.html) no-repeat 97% 20px;
+    padding-right: 45px;
+}
+.navbar-default .navbar-nav>li.dropdown-toggle a.active {
+    background-position: 97% -73px;
+}
+.navbar-default .navbar-nav>li ul.dropdown-menu.oneColumnMenu, .navbar-default .navbar-nav>li ul.dropdown-menu {
+    position: relative;
+    width: 100%;
+    border: 0;
+    box-shadow: none;
+    padding: 15px;
+    border-radius: 0;
+    max-height: 311px;
+    overflow-y: auto;
+}
+.navbar-nav>li ul.dropdown-menu>li {
+    width: 100%;
+    padding: 0;
+}
+.wedsMachMbox_wrap .wedsMachMbox {
+    width: 48%;
+    float: left;
+    margin: 0 1% 15px;
+}
+.address_wrap .address_box {
+    width: 100%;
+    margin-left: 0%}
+.address_wrap {
+    clear: both;
+}
+.cms-page .inner_content .contact_fields ul {
+    margin-left: 0;
+}
+ul.lead-ul-sub {
+    margin-left: 0!important;
+}
+.accordianWrap .history-deatils .accordian_btn h4 {
+    font-size: 14px;
+}
+.returnsDetails .col-sm-3.text-right {
+    text-align: left;
+    margin: 10px 0;
+}
+.form-fields .form-list li {
+    width: 100%;
+    margin-right: 0;
+}
+.fees-details table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+}
+.radioButtn_value .radio_BTn {
+    margin: 3px 5px 0 0;
+}
+.customBarChartsWrap .border-head h3 {
+    font-size: 17px;
+    line-height: 28px;
+    margin: 0 0 55px;
+    text-transform: none;
+}
+.y-axis li span {
+    font-size: 11px;
+    margin: -10px 0 0 -30px;
+    padding: 0 15px 0 0;
+}
+.admin .navbar-default .navbar-nav>li ul.dropdown-menu {
+    width: 100%;
+    position: relative;
+    padding: 10px 7px 10px 15px;
+}
+.cms-page .inner_content h4 {
+    font-size: 15px;
+    height: auto;
+    min-height: 50px;
+    line-height: 27px;
+}
+#marriagegPublicNotice .wedsMachMbox_wrap table tr td {
+    width: 48%;
+    min-height: 350px;
+    float: left;
+    display: inline-block;
+    margin: 8px 1%}
+#marriagegPublicNotice .wedsMachMbox_wrap table tr td .vew_detailsBTn {
+    margin-bottom: 10px;
+}
+#marriagegPublicNotice .wedsMachMbox_wrap table tr td .wedsMachMbox {
+    width: 100%;
+    margin: 0;
+}
+form#marriagegPublicNotice .wedsMachMbox_wrap {
+    margin-top: 0;
+}
+#marriagegPublicNotice .content-wrap.public_notice_page {
+    margin-top: 33px;
+}
+.public_notice_page .search_feilds {
+    margin-top: 5px;
+}
+}@media screen and (min-width:640px)and (max-width:767px) {
+    #footer .colm {
+    width: 33.3%;
+    float: left;
+}
+#footer .colm p {
+    font-size: 13px;
+}
+}@media screen and (min-width:560px)and (max-width:767px) {
+    .state-overview .col-lg-3.col-sm-6 {
+    width: 50%;
+    float: left;
+}
+}@media(max-width:639px) {
+    .form-fields .form-list li {
+    width: 100%;
+    margin-right: 0;
+}
+.slideshow {
+    height: 165px;
+    padding-top: 25px;
+}
+.slideshow .inner_content {
+    padding: 0 15px;
+}
+.lead {
+    font-size: 13px;
+    line-height: 25px;
+    padding: 0 4%}
+.slideshow .gettingStart {
+    font-size: 11px;
+    padding: 6px 11px;
+}
+.social_links li {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.copyright a.service-use {
+    display: inline-block;
+}
+.paginationWrap ul.pagination li {
+    margin-left: -4px;
+}
+.adminForms .form-list li {
+    width: 100%;
+    margin-right: 0;
+}
+.wedsMachMbox_wrap .wedsMachMbox {
+    width: 100%}
+.faq-page .main_category>h3 {
+    font-size: 16px;
+    padding: 7px 12px;
+}
+#marriagegPublicNotice .wedsMachMbox_wrap table tr td {
+    width: 98%;
+    min-height: 350px;
+    float: left;
+    display: inline-block;
+    margin: 8px 1%}
+#marriagegPublicNotice .wedsMachMbox_wrap table tr td .vew_detailsBTn {
+    margin-bottom: 10px;
+}
+#marriagegPublicNotice .wedsMachMbox_wrap table tr td .wedsMachMbox {
+    width: 100%;
+    margin: 0;
+}
+form#marriagegPublicNotice .wedsMachMbox_wrap {
+    margin-top: 0;
+}
+.public_notice_page .search_feilds .search_input {
+    width: 223px;
+}
+#marriagegPublicNotice .content-wrap.public_notice_page {
+    margin-top: 33px;
+}
+}@media(max-width:480px) {
+    .slideshow {
+    height: 165px;
+    padding-top: 25px;
+}
+.slideshow .inner_content {
+    padding: 0 15px;
+}
+.lead {
+    font-size: 13px;
+    line-height: 25px;
+    padding: 0 4%}
+.slideshow .gettingStart {
+    font-size: 11px;
+    padding: 6px 11px;
+}
+.services-grid .box {
+    padding: 13% 10px;
+}
+.services-grid .box .inner {
+    position: relative;
+    transform: none;
+    left: 0;
+    margin: 0 auto;
+    max-width: 300px;
+    padding: 0;
+}
+.top-links ul .dropdown-menu {
+    left: 0;
+}
+.top-links ul .dropdown-menu::after, .top-links ul .dropdown-menu::before {
+    right: auto;
+    left: -8px;
+}
+.form-fields .photo_update .photoUpload_input {
+    width: 78%}
+.navbar-default .navbar-nav>li.dropdown-toggle a {
+    background-position: 94% 20px;
+}
+.navbar-default .navbar-nav>li.dropdown-toggle a.active {
+    background-position: 94% -74px;
+}
+.address_wrap .address_box p strong {
+    width: 100%;
+    float: left;
+}
+.admin .top-links ul .dropdown-menu {
+    left: 10px;
+}
+}@media(max-width:479px) {
+    .custom-bar-chart .bar .title {
+    font-size: 7px;
+}
+.adddNewBtns input[type="button"] {
+    font-size: 12px;
+    padding: 8px 20px;
+}
+.boxWrap .register_btn {
+    display: block;
+    padding: 5px 0;
+    text-align: center;
+}
+.boxWrap>span#nav {
+    float: right;
+    text-align: center;
+    width: 100%}
+.boxWrap .g-recaptcha {
+    margin-left: -14px;
+}
+}@media(max-width:359px) {
+    .paginationWrap ul.pagination li {
+    margin-left: -7px;
+}
+.paginationWrap ul.pagination li a {
+    font-size: 12px;
+    padding: 4px 12px 4px 8px;
+}
+.form-fields .photo_update .photoUpload_input {
+    width: 76%}
+.form-fields .form-list .input_file.input-text>span {
+    padding: 0 7px;
+}
+.form-fields .input-text {
+    padding: 0 7px;
+}
+}.about-section .lead {
+    font-weight: 400;
+    line-height: 18px;
+}
+.about-section .lead p {
+    font-weight: 400;
+    line-height: 20px!important;
+}
+.top-links ul li .nav_content {
+    font-weight: 600;
+    display: inline-block;
+}
+@media screen and (min-width:992px)and (max-width:1199px) {
+    #header .logo {
+    width: 40%}
+#header .top-links {
+    width: 60%}
+.homepage .container {
+    padding: 0;
+}
+.navbar-default .navbar-nav>li:last-child>a {
+    padding-right: 0;
+}
+.navbar-default .navbar-nav>li:first-child>a {
+    padding-left: 0;
+}
+.navbar-default .navbar-nav>li>a {
+    font-size: 11px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.navbar-default .navbar-form {
+    padding: 0 14px;
+}
+.top-links {
+    padding-top: 7px;
+}
+.slideshow {
+    padding: 0;
+}
+.slideshow .inner_content {
+    padding: 0;
+}
+.services-grid .box .imgage-bg img {
+    object-fit: cover;
+}
+.services-grid .box {
+    padding-bottom: 0;
+}
+.services-grid .box .hover-content {
+    height: 40px;
+}
+.services-grid .box .inner {
+    padding: 0 10px;
+}
+.services-grid .box .inner h3 {
+    margin-top: 14px;
+    font-size: 13px;
+}
+.social_links li a {
+    width: 22px;
+}
+.social_links li.twitter a {
+    background-position: -31px 0;
+}
+.social_links li.linkedin a {
+    background-position: -61px 0;
+}
+.social_links li.youtube a {
+    background-position: -91px 0;
+}
+.social_links li.pinterest a {
+    background-position: -122px 0;
+}
+#footer .social_links ul {
+    margin-left: 0;
+}
+#footer .colm {
+    margin: 30px 0 20px;
+}
+#footer .social_links {
+    margin-top: 0;
+}
+#footer .copyright {
+    padding-top: 3px;
+}
+.services-grid .box:hover .inner {
+    width: 240px;
+    margin-left: -120px;
+}
+}@media screen and (min-width:768px)and (max-width:991px) {
+    #header .logo {
+    width: 39%;
+    padding-right: 0;
+    padding-top: 4px;
+}
+.top-links ul li {
+    padding: 0;
+    width: auto;
+    line-height: 13px;
+    vertical-align: top;
+    max-width: 108px;
+}
+.homepage .container {
+    padding: 0;
+}
+.navbar-default .navbar-nav>li>a {
+    padding: 15px 20px;
+}
+.navbar-default .navbar-form {
+    padding: 0 14px;
+}
+.top-links {
+    padding-top: 7px;
+}
+.slideshow {
+    padding: 0;
+    height: 218px;
+    background: none;
+}
+.slideshow .inner_content {
+    padding: 0;
+}
+.services-grid .box .imgage-bg img {
+    object-fit: cover;
+}
+.services-grid .box {
+    padding-bottom: 0;
+}
+.services-grid .box .hover-content {
+    height: 40px;
+}
+.services-grid .box .inner {
+    padding: 0 10px;
+}
+.services-grid .box .inner h3 {
+    margin-top: 14px;
+    font-size: 13px;
+}
+#footer .colm {
+    margin: 30px 0 20px;
+}
+#footer .social_links {
+    margin-top: 0;
+}
+#footer .copyright {
+    padding-top: 3px;
+}
+.services-grid .box:hover .inner {
+    width: 240px;
+    margin-left: -120px;
+}
+.services-grid .box {
+    width: 32.2%}
+#footer .colm {
+    padding: 0 15px;
+}
+#footer .colm h3 {
+    width: 100%!important;
+}
+#footer .social_links ul {
+    margin-left: 0;
+}
+#footer .social_links li a {
+    width: 25px;
+}
+#footer .social_links li.twitter a {
+    background-position: -33px 0;
+}
+#footer .social_links li.linkedin a {
+    background-position: -66px 0;
+}
+#footer .social_links li.youtube a {
+    background-position: -99px 0;
+}
+#footer .social_links li.pinterest a {
+    background-position: -132px 0;
+}
+#footer .social_links {
+    text-align: left;
+    width: 25%;
+    float: right;
+    padding-bottom: 24px;
+}
+#header .logo {
+    width: 40%}
+#header .top-links {
+    width: 60%}
+.top-links ul li {
+    max-width: 20%;
+    padding: 0 5px;
+}
+.top-links ul li .nav_content {
+    width: auto;
+    white-space: normal;
+    font-size: 12px;
+}
+.top-links ul .li_migration .dropdown-menu {
+    left: -200px!important;
+}
+.top-links ul li.dropdown .dropdown-menu li {
+    width: 100%;
+    max-width: 100%}
+.top-links ul li.dropdown .dropdown-menu li {
+    width: 100%;
+    max-width: 100%}
+.top-links ul .li_migration .dropdown-menu {
+    left: -200px!important;
+}
+}@media screen and (max-width:767px) {
+    .slideshow {
+    padding: 0;
+    height: auto;
+    background: none;
+}
+.section-head h1 {
+    font-size: 20px;
+}
+.slideshow .inner_content {
+    padding: 0;
+}
+.about-section .lead p, .about-section .lead p span {
+    font-size: 13px!important;
+    line-height: 24px;
+}
+.services-grid .box {
+    width: 92%;
+    padding: 0;
+    margin: 0 4% 15px;
+}
+.services-grid .box .inner {
+    top: 14px;
+}
+.services-grid .box .inner h3 {
+    margin-top: 0;
+}
+.services-grid .box .hover-content {
+    height: 40px;
+}
+.top-links ul li .nav_content {
+    line-height: 14px;
+}
+.top-links ul .dropdown-menu {
+    top: 99px;
+}
+.data-migration .dropdown-menu {
+    left: 0!important;
+}
+#footer .content p {
+    margin-left: 0!important;
+}
+.top-links>ul>li {
+    padding: 0;
+    width: 32.6%!important;
+    vertical-align: top;
+    background-color: #f5f5f5;
+    height: 100px;
+    padding: 19px 5px;
+    margin-bottom: 3px;
+}
+.top-links>ul>li.li_migration {
+    width: 66%!important;
+}
+#header .top-links {
+    padding-top: 20px;
+}
+.slideshow .owl-nav .owl-prev {
+    left: 5px;
+    background-size: auto 16px;
+    background-position: 12px center;
+}
+.slideshow .owl-nav .owl-next {
+    right: 5px;
+    background-size: auto 16px;
+    background-position: -12px center;
+}
+.section.about-section {
+    padding-top: 25px;
+}
+#footer .social_links ul {
+    margin-left: 0;
+}
+#footer .colm h3 {
+    width: 100%}
+.welcomeText {
+    width: 80px;
+}
+.top-links>ul>li {
+    min-height: 120px;
+}
+.add-application .modal-dialog {
+    width: auto;
+}
+.top-links ul .dropdown-menu {
+    width: 200px;
+}
+.end-user-profile {
+    padding-left: 0;
+    padding-right: 0;
+}
+.end-user-profile .heading_text {
+    font-size: 16px;
+    text-align: left;
+}
+.top-links ul .dropdown-menu {
+    left: -8px;
+}
+}@media screen and (min-width:550px)and (max-width:767px) {
+    .services-grid .box {
+    width: 46%;
+    padding: 0;
+    margin: 0 2% 15px;
+    float: left;
+}
+.services-grid .box .inner {
+    width: 380px;
+}
+.services-grid .box .inner {
+    width: 100%;
+    margin-left: 0;
+    padding: 3px 10px;
+}
+.services-grid .box .inner h3 {
+    margin-top: 12px;
+    font-size: 13px;
+}
+.msg_container_base {
+    max-height: 71vh;
+}
+.welcomeText {
+    width: 140px;
+}
+.top-links ul .dropdown-menu {
+    left: 12px;
+}
+}@media screen and (max-width:480px) {
+    .top-links>ul>li {
+    width: 32.4%!important;
+    padding: 10px 5px;
+}
+.end-user-profile .heading_text {
+    font-size: 12px;
+    text-align: left;
+}
+.end-user-profile {
+    padding-left: 0;
+    padding-right: 0;
+}
+}

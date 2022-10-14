@@ -1,0 +1,1 @@
+function startSession(n){function i(){jQuery("#logoutForm").submit()}var t;t=setInterval(function(){i()},n);$(document).mousemove(function(){clearTimeout(t);t=setInterval(function(){i()},n)});$(window).blur(function(){clearTimeout(t)})}

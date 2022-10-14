@@ -1,0 +1,52 @@
+ 
+    .marquee {
+        position: absolute;
+        max-height: 20px;
+        height: 3px;
+        color: #000;
+        z-index: 1;
+    }
+
+    .services-grid .box .imgage-bg {
+        height: 100%;
+        width: 100%;
+    }
+
+        .services-grid .box .imgage-bg img {
+            width: 100%;
+            height: 100%;
+        }
+
+    .services-grid .hover-content {
+        position: absolute;
+        bottom: 0px;
+        height: 52px;
+        transition: all 500ms ease;
+        width: 100%;
+        background-color: rgba(45, 116, 179, 0.9);
+    }
+
+    .services-grid .box:hover .hover-content {
+        height: 100%;
+    }
+
+    .MindstickDialog {
+        width: 600px;
+        font-weight: normal !important;
+    }
+
+        /*.MindstickDialog .MindstickDialog_Body div div {
+            font-weight: normal !important;
+        }*/
+        .MindstickDialog .MindstickDialog_Title {
+            padding: 11px 10px;
+        }
+
+        .MindstickDialog .MindstickDialog_Body div div ul {
+            padding-left: 17px;
+        }
+
+            .MindstickDialog .MindstickDialog_Body div div ul li {
+                list-style-type: disc;
+                margin-top: 10px !important;
+            }
